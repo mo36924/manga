@@ -1,0 +1,30 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.oxc": "explicit"
+  },
+  "oxc.path.oxfmt": "node_modules/vite-plus/bin/oxfmt",
+  "oxc.path.oxlint": "node_modules/vite-plus/bin/oxlint",
+  "oxc.fmt.configPath": "vite.config.ts",
+  "oxc.configPath": "vite.config.ts",
+  "oxc.disableNestedConfig": true,
+  "js/ts.experimental.useTsgo": true,
+  "js/ts.tsdk.path": "./node_modules/typescript",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "[opentofu]": {
+    "editor.defaultFormatter": "opentofu.vscode-opentofu"
+  },
+  "opentofu.codelens.referenceCount": true,
+  "opentofu.experimentalFeatures.prefillRequiredFields": true,
+  "opentofu.experimentalFeatures.validateOnSave": true,
+  "opentofu.validation.enableEnhancedValidation": false,
+  "json.schemaDownload.trustedDomains": {
+    "https://opencode.ai/config.json": true,
+    "https://models.dev/model-schema.json": true
+  }
+}
