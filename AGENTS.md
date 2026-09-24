@@ -1,7 +1,5 @@
 # AGENTS.md
 
-Always respond in Japanese.
-
 ## Commits
 
 - Format: `tag: message`, using `feat`, `fix`, `refactor`, or `chore`.
