@@ -1,0 +1,17 @@
+Use case: illustration-story
+Asset type: one finished Japanese full-color manga story page, portrait 1024 by 1536 pixels, part of a continuous twenty-page adaptation of Eiji Yoshikawa's Miyamoto Musashi, opening chapter Suzu.
+Input image 1: CHARACTER IDENTITY AND ART STYLE REFERENCE ONLY. It is not a page to edit. Draw new compositions, gestures, environments and panels. Show only the characters requested in the scene; do not add unused characters from the sheet.
+Art direction: refined expressive black ink with rich natural cel color and subtle watercolor texture, clear acting and believable anatomy, polished original historical manga. Match the reference faces and clothing exactly; no imitation of any existing manga adaptation. Not monochrome, not sepia. Japan in 1600, late autumn; period rural clothing, timber houses, spears, no modern objects.
+Continuity: TAKEZO 武蔵 pronounced たけぞう: 17, tall rangy, angular young face, unusually thick long eyebrows, messy black short high ponytail, faded INDIGO kosode, brown hemp sash, dark cropped trousers, calf wraps. MATAHACHI 又八: 17, shorter stocky, broad chest and ROUND youthful face, large expressive eyes, small messy black knot, MOSS GREEN kosode, beige sash, brown trousers. AKEMI 朱実: 15, small, straight black hair with bangs tied partly back, DUSTY ROSE kimono with tiny cream geometric marks, narrow ochre obi, small brass bell on a dark red cord by sleeve cuff. OKO お甲: widow in her thirties, mature oval face, tidy black bun with wooden pin, PLUM kimono, ochre obi.
+Page design: Japanese manga reading order from TOP RIGHT toward LEFT, then downward. Confident varied rectangular panel sizes, clean black panel borders and narrow ivory gutters, safe outer margins. All speech balloons with clear tails toward the correct speaker. Beautiful highly legible Japanese lettering, preferably vertical columns read right to left, generous blank white balloons. Every quoted Japanese string in the panel brief must appear exactly once, verbatim; the quote marks themselves are not printed. Do not translate. Do not render English prompt words, panel numbers, design labels, or extra text. Place only the stated two-digit PAGE NUMBER discreetly centered in the bottom ivory margin. No repeated running title except page 1. Fully rendered sequential art, never a collage of the character sheet.
+Violence treatment: restrained battlefield aftermath, fully clothed distant fallen soldiers, no gore, mutilation, exposed wounds or graphic injury. Main characters always fully and appropriately clothed. No romance or sexualized posing.
+
+PAGE NUMBER: 11
+Scene title for planning only (do not print): 草むらの気配
+Panel brief:
+Five panels: wide top, middle two, lower two.
+TOP: TAKEZO tightens his hold and continues walking with MATAHACHI through moonlit reeds. Takezo's balloon 「家を探そう。薬をもらって、休めばいい。」.
+MIDDLE RIGHT: MATAHACHI quietly nods, tired but encouraged, using the spear. His balloon 「……うん。」.
+MIDDLE LEFT: A cluster of tall reeds moves unexpectedly beside an abandoned helmet. Small sound 「がさっ」. Do not yet reveal the person behind it.
+LOWER RIGHT: TAKEZO halts sharply, head turning toward the sound. His tiny balloon 「誰だ。」.
+LOWER LEFT: Long horizontal low view over bent grass, a SMALL CLOTHED SILHOUETTE crouches among the motionless battlefield figures several paces away; only a narrow glint of eyes and a muted rose sleeve, identity deliberately unrevealed. No text. Suspenseful quiet blue moonlight. Respectful non-graphic battlefield.

@@ -1,0 +1,177 @@
+{
+  "title": "宮本武蔵 地の巻・鈴",
+  "status": "complete_awaiting_user_review",
+  "stop_after_page": 20,
+  "page_count": 20,
+  "language": "ja",
+  "reading_order": "right-to-left panels; pages 01 through 20",
+  "generator": "built-in image_gen through imagegen skill",
+  "reference": "references/characters.png",
+  "pdf": "output/pdf/miyamoto-musashi-001-020.pdf",
+  "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
+  "source_section": "鈴 一〜五",
+  "pages": [
+    {
+      "page": 1,
+      "image": "pages/page-01.png",
+      "prompt": "production/prompts/page-01.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f5b45503fcebbb929ce8f5d51ee37b91a8dcc855e0fbbab422069fe923dc63d7"
+    },
+    {
+      "page": 2,
+      "image": "pages/page-02.png",
+      "prompt": "production/prompts/page-02.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4be06fc562434e0b56940a109d51708b191b377bb6fd609fad6e5125e31fbda1"
+    },
+    {
+      "page": 3,
+      "image": "pages/page-03.png",
+      "prompt": "production/prompts/page-03.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "276ab161c33d832a7a45dc9ee5269d083f9277fc94a378525e7d3a08c3f8795a"
+    },
+    {
+      "page": 4,
+      "image": "pages/page-04.png",
+      "prompt": "production/prompts/page-04.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "588979445c3bc4234e52ff9f10c27d2a4f436c500bf308f865fdce8b097ef8a7"
+    },
+    {
+      "page": 5,
+      "image": "pages/page-05.png",
+      "prompt": "production/prompts/page-05.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ed103e698c307c5e4a8d2bc6c99d44928a4c26f3be477b83269a4542c5a3e3f3"
+    },
+    {
+      "page": 6,
+      "image": "pages/page-06.png",
+      "prompt": "production/prompts/page-06.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "38cf0cd93d75c48a1bd3968b2b6688cc0a06aca89b4469dd60a38a76792272cd"
+    },
+    {
+      "page": 7,
+      "image": "pages/page-07.png",
+      "prompt": "production/prompts/page-07.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "49f3e3fa432bf52858d46162232a37da441626bb889f9a118b6cf97e0733b006"
+    },
+    {
+      "page": 8,
+      "image": "pages/page-08.png",
+      "prompt": "production/prompts/page-08.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b7280c0c70da471608abb67627028f5b8f16e2a36bf70ae1b932cda31727a21b"
+    },
+    {
+      "page": 9,
+      "image": "pages/page-09.png",
+      "prompt": "production/prompts/page-09.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "15e575d58977b947aba8ee8713437cc3d4e9313351615bc1bddbb4f0035b63cb"
+    },
+    {
+      "page": 10,
+      "image": "pages/page-10.png",
+      "prompt": "production/prompts/page-10.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "31b6ea174e0633a4385faf5490c88c17e895a85706a07b2545faef30db07cfdc",
+      "edit_prompt": "production/prompts/page-10-edit.txt"
+    },
+    {
+      "page": 11,
+      "image": "pages/page-11.png",
+      "prompt": "production/prompts/page-11.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "678419bcbcb326a1848a23b6388202d79b6d1ba8fc7b556add0724398d27246d"
+    },
+    {
+      "page": 12,
+      "image": "pages/page-12.png",
+      "prompt": "production/prompts/page-12.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "92d9d4f50d821ef55e92bcec2ef312a6f6417ec388b059265cdd8953a90693c8"
+    },
+    {
+      "page": 13,
+      "image": "pages/page-13.png",
+      "prompt": "production/prompts/page-13.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "47afb2524eab9c2c92d1804a3cb83f150c120770e5ba6725676354ef1fc1ef14",
+      "edit_prompt": "production/prompts/page-13-edit.txt"
+    },
+    {
+      "page": 14,
+      "image": "pages/page-14.png",
+      "prompt": "production/prompts/page-14.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cb1353a0095bc05a1d22e3b5ddc5b21dbb5ec68b5aa3315028a76de0b9d2ca8e"
+    },
+    {
+      "page": 15,
+      "image": "pages/page-15.png",
+      "prompt": "production/prompts/page-15.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1c6e76eb0a093a6626c72b8dc306e71e6de29440f3e07a4c1320bae27f2e422e"
+    },
+    {
+      "page": 16,
+      "image": "pages/page-16.png",
+      "prompt": "production/prompts/page-16.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f1d42924bebbb8c53e2a4db753378066dcda2d1344596aa279b65829967da3f1"
+    },
+    {
+      "page": 17,
+      "image": "pages/page-17.png",
+      "prompt": "production/prompts/page-17.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "31ee8d60f16d1765d8b01072039d578f8945a406bc540dfa5bd1f802938dfca0"
+    },
+    {
+      "page": 18,
+      "image": "pages/page-18.png",
+      "prompt": "production/prompts/page-18.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "252363a1e683414af9797b5bd08c319790d9490cf173f6c7d6ae3e045d4a7583"
+    },
+    {
+      "page": 19,
+      "image": "pages/page-19.png",
+      "prompt": "production/prompts/page-19.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "57d30c9423c1f56feeb77199b722dda9a4efc3763853ae0feb2803ecccd86fd4"
+    },
+    {
+      "page": 20,
+      "image": "pages/page-20.png",
+      "prompt": "production/prompts/page-20.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "bedb3ecb6f1a94bbf530d4d743c45c3fcd56877d7e60026f671eb03a220c4386"
+    }
+  ]
+}
