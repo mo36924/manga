@@ -1,10 +1,10 @@
 {
   "title": "宮本武蔵 地の巻",
   "status": "complete_awaiting_user_review",
-  "stop_after_page": 30,
-  "page_count": 30,
+  "stop_after_page": 35,
+  "page_count": 35,
   "language": "ja",
-  "reading_order": "right-to-left panels; pages 01 through 30",
+  "reading_order": "right-to-left panels; pages 01 through 35",
   "generator": "built-in image_gen through imagegen skill",
   "reference": "references/characters.png",
   "pdfs": [
@@ -24,7 +24,7 @@
     }
   ],
   "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
-  "source_section": "鈴 一〜五、毒茸 一〜三",
+  "source_section": "鈴 一〜五、毒茸 一〜四",
   "pages": [
     {
       "page": 1,
@@ -305,6 +305,66 @@
       "page_number_in_artwork": false,
       "source_section": "毒茸 三",
       "references": ["references/characters.png", "pages/page-25.png"]
+    },
+    {
+      "page": 31,
+      "title": "天井裏へ",
+      "image": "pages/page-31.png",
+      "prompt": "production/prompts/page-31.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4bd184f8ac7f1fe130a4acaf25236b3ae264bb40949d98e72f22244434c49f90",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 四",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 32,
+      "title": "黒樫の重さ",
+      "image": "pages/page-32.png",
+      "prompt": "production/prompts/page-32.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0d909a8a5f4f8b2cb28edd377d0432888a66413a1e2a773c6dc9bb8e575dc8d0",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 四",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 33,
+      "title": "二つの贈り物",
+      "image": "pages/page-33.png",
+      "prompt": "production/prompts/page-33.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "936f4300f31a6e306ddd4c51c082d9d99ddb46ed56a882867e854dc51481d84d",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 四",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 34,
+      "title": "炉端の視線",
+      "image": "pages/page-34.png",
+      "prompt": "production/prompts/page-34.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1725314d420970a68623cafb195a50ad23282df3f9659dac81b9cb452f30a529",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 四",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 35,
+      "title": "一人でお帰り",
+      "image": "pages/page-35.png",
+      "prompt": "production/prompts/page-35.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "9a25aad591f85f7d92d110cdba8b9d09043405cab1edbd19583bbd9499f4030c",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 四",
+      "references": ["references/characters.png"]
     }
   ]
 }
