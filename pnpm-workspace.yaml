@@ -1,0 +1,14 @@
+enableGlobalVirtualStore: true
+minimumReleaseAge: 4320
+minimumReleaseAgeIgnoreMissingTime: false
+minimumReleaseAgeStrict: true
+blockExoticSubdeps: true
+strictDepBuilds: true
+storeDir: ${HOME}/.local/share/pnpm/store
+
+overrides:
+  vite: npm:@voidzero-dev/vite-plus-core@0.3.3
+  vitest: 4.1.11
+
+allowBuilds:
+  esbuild: true
