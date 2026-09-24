@@ -1,10 +1,10 @@
 {
   "title": "宮本武蔵 地の巻",
   "status": "complete_awaiting_user_review",
-  "stop_after_page": 40,
-  "page_count": 40,
+  "stop_after_page": 45,
+  "page_count": 45,
   "language": "ja",
-  "reading_order": "right-to-left panels; pages 01 through 40",
+  "reading_order": "right-to-left panels; pages 01 through 45",
   "generator": "built-in image_gen through imagegen skill",
   "reference": "references/characters.png",
   "pdfs": [
@@ -24,7 +24,7 @@
     }
   ],
   "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
-  "source_section": "鈴 一〜五、毒茸 一〜四、五（木剣と幼少期の回想）",
+  "source_section": "鈴 一〜五、毒茸 一〜六、おとし櫛 一〜二（対峙まで）",
   "pages": [
     {
       "page": 1,
@@ -435,6 +435,67 @@
       "edge_open_panels": 2,
       "source_section": "毒茸 五",
       "references": ["references/characters.png"]
+    },
+    {
+      "page": 41,
+      "title": "夜を破る音",
+      "image": "pages/page-41.png",
+      "prompt": "production/prompts/page-41.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "88c802e018a81b0304730745faa600e6b63143c41e0a31168392e1ae390d8c42",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 五末尾〜六",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 42,
+      "title": "辻風の夜襲",
+      "image": "pages/page-42.png",
+      "prompt": "production/prompts/page-42.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7953c02584a16b628b2b0769bee154e52a550ca926b36720e200f3447f07d42b",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 六末尾・おとし櫛 一",
+      "references": ["references/characters.png", "pages/page-26.png"]
+    },
+    {
+      "page": 43,
+      "title": "夫の仇",
+      "image": "pages/page-43.png",
+      "prompt": "production/prompts/page-43.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "377ef05ef931c620ff8c810854658239990da24d32b97a9d2f0cb1d5497ed5b2",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 一",
+      "references": ["references/characters.png", "pages/page-26.png"]
+    },
+    {
+      "page": 44,
+      "title": "天井の証拠",
+      "image": "pages/page-44.png",
+      "prompt": "production/prompts/page-44.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f303a98f92810e91db661b45d19a9cf4f136f9564a5102a5bb464ba8f44cb758",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 一",
+      "references": ["references/characters.png", "pages/page-26.png", "pages/page-31.png"]
+    },
+    {
+      "page": 45,
+      "title": "敷居の二人",
+      "image": "pages/page-45.png",
+      "prompt": "production/prompts/page-45.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c1f4961fe86393892649d7b0400b3393f65548e068c31fa5d41de78fffc4a1fc",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 二（対峙まで）",
+      "references": ["references/characters.png", "pages/page-26.png"],
+      "edit_prompt": "production/prompts/page-45-edit.txt"
     }
   ]
 }
