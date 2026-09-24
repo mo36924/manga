@@ -1,15 +1,30 @@
 {
-  "title": "宮本武蔵 地の巻・鈴",
+  "title": "宮本武蔵 地の巻",
   "status": "complete_awaiting_user_review",
-  "stop_after_page": 20,
-  "page_count": 20,
+  "stop_after_page": 25,
+  "page_count": 25,
   "language": "ja",
-  "reading_order": "right-to-left panels; pages 01 through 20",
+  "reading_order": "right-to-left panels; pages 01 through 25",
   "generator": "built-in image_gen through imagegen skill",
   "reference": "references/characters.png",
-  "pdf": "output/pdf/miyamoto-musashi-001-020.pdf",
+  "pdfs": [
+    {
+      "from_page": 1,
+      "to_page": 20,
+      "page_count": 20,
+      "file": "output/pdf/miyamoto-musashi-001-020.pdf",
+      "sha256": "edd76a9e5c0f4290d11f06d59db3e519076765bed729fe112d404826649ec87c"
+    },
+    {
+      "from_page": 21,
+      "to_page": 25,
+      "page_count": 5,
+      "file": "output/pdf/miyamoto-musashi-021-025.pdf",
+      "sha256": "ab386cd61efb69310a52fca83648cb6e51cf72ff64af59cdf2251ece7763741a"
+    }
+  ],
   "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
-  "source_section": "鈴 一〜五",
+  "source_section": "鈴 一〜五、毒茸 一〜二冒頭",
   "pages": [
     {
       "page": 1,
@@ -172,6 +187,62 @@
       "width": 1024,
       "height": 1536,
       "sha256": "bedb3ecb6f1a94bbf530d4d743c45c3fcd56877d7e60026f671eb03a220c4386"
+    },
+    {
+      "page": 21,
+      "title": "母屋の笑い声",
+      "image": "pages/page-21.png",
+      "prompt": "production/prompts/page-21.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "86e019e6430e500c2a1030e1c9206ecf7992f804d788602ec50963dbe7b50f78",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 一"
+    },
+    {
+      "page": 22,
+      "title": "落人の身",
+      "image": "pages/page-22.png",
+      "prompt": "production/prompts/page-22.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d66a85226f5701212269bfd93e1bbad92ef4643273fec864ab893513d7be1b1c",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 一",
+      "edit_prompt": "production/prompts/page-22-edit.txt"
+    },
+    {
+      "page": 23,
+      "title": "二十日ぶりの空",
+      "image": "pages/page-23.png",
+      "prompt": "production/prompts/page-23.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "aa5f50d9f5505b9b851f2f776bcf67815709c1974932c3f2e3eae8cd893f82dd",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 一"
+    },
+    {
+      "page": 24,
+      "title": "母屋へ",
+      "image": "pages/page-24.png",
+      "prompt": "production/prompts/page-24.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7619f9b7bcb7356b36282d5cfe321512177d75a50f066821b0490a05b22864d4",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 一"
+    },
+    {
+      "page": 25,
+      "title": "松林の影",
+      "image": "pages/page-25.png",
+      "prompt": "production/prompts/page-25.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "69bb70a9376717f2a1207de375eb15bda2c61485adf529ad77a6a42b8c91da9a",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 二（男が現れる場面まで）"
     }
   ]
 }
