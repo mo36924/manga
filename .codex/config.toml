@@ -1,0 +1,21 @@
+model = "gpt-6-astra"
+review_model = "gpt-6-astra"
+model_reasoning_effort = "high"
+plan_mode_reasoning_effort = "xhigh"
+
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
+approvals_reviewer = "auto_review"
+check_for_update_on_startup = false
+
+[agents]
+enabled = true
+default_subagent_model = "gpt-6-astra"
+default_subagent_reasoning_effort = "high"
+max_concurrent_threads_per_session = 8
+
+[features]
+fast_mode = true
+
+[shell_environment_policy]
+experimental_use_profile = true
