@@ -1,0 +1,25 @@
+[tools]
+aws-cli = "latest"
+claude = "2.1.280"
+codex = "latest"
+github-cli = "latest"
+grok = "latest"
+node = "24"
+opencode = "latest"
+opentofu = "latest"
+pnpm = "12"
+python = "3.14"
+uv = "latest"
+
+[env]
+_.path = ["node_modules/.bin"]
+
+[settings]
+lockfile = true
+minimum_release_age = "3d"
+
+[dotfiles]
+"~/.bash_profile/mise" = { block = 'eval "$("$HOME/.local/bin/mise" activate bash --shims)"' }
+"~/.bashrc/mise" = { block = 'eval "$("$HOME/.local/bin/mise" activate bash)"' }
+"~/.zprofile/mise" = { block = 'eval "$("$HOME/.local/bin/mise" activate zsh --shims)"' }
+"~/.zshrc/mise" = { block = 'eval "$("$HOME/.local/bin/mise" activate zsh)"' }
