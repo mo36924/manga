@@ -1,7 +1,0 @@
-Use case: precise-object-edit
-Image 1 is the EDIT TARGET: completed portrait manga page 10.
-Fix the speaker of ONE speech balloon in the large MIDDLE panel by REPOSITIONING that entire balloon.
-The balloon containing exactly 「あいつは、独りぼっちなんだ。」 is currently on the LEFT of that middle panel. It belongs to the round-faced youth in GREEN, Matahachi, on the RIGHT.
-REMOVE that entire balloon from the left and naturally fill the formerly covered small area with the continuation of the indigo clothing/background. Put the SAME Japanese sentence in a white oval balloon at the FAR RIGHT of the middle panel, directly BELOW the existing 「お通を、頼めるか。」 balloon. Use the open area to the RIGHT of Matahachi's head and shoulder, with a short tail pointing LEFT toward his mouth. Connect the two right-side balloons as a linked pair if helpful. Do not cover his face. Do not leave any detached triangular white fragments anywhere.
-Thus BOTH of Matahachi's lines are stacked along the RIGHT side of the large middle panel and unmistakably belong to the GREEN boy.
-Preserve all other text verbatim, all artwork outside the vacated/new balloon footprints, the faces, poses, hands, clothing, colors, landscape, panel borders, portrait aspect ratio and page number 10. Full finished manga page. No crop, no new scene or labels.

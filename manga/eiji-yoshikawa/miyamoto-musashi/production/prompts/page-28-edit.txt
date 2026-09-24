@@ -1,6 +1,0 @@
-Use case: precise-object-edit
-Make ONE localized continuity correction to this finished manga page, preserving everything else exactly.
-In the THIRD ROW WIDE PANEL ONLY, the blue moonlit battlefield MEMORY, remove the small woven MUSHROOM BASKET visible behind/beside Akemi's left hip (roughly x=300 to 410, y=860 to 1015 in the 1024x1536 image). This is a memory of battlefield scavenging, not the daytime mushroom hunt. Replace that basket and its contents naturally with shadowed grass and the existing dark background. Keep the dusty rose clothing and Akemi's anatomy intact. Keep the small cloth purse that she is holding in her hands; that purse is essential to the scene.
-Preserve the fallen armored figure, moon, cool blue nighttime palette, tall grass, and the voice-over caption 「死んだ侍の持ち物を、取っていたの。」 exactly as they are. Do not increase violence or expose wounds.
-Keep ALL other panels entirely unchanged. In particular keep EVERY woven mushroom basket in the daytime panels, all faces, poses, speech text, speech tails, panel frames, colors and margins. Do not add any object, character, or text.
-No page number, folio, header, footer, watermark, logo, or additional symbols. Bottom outer margin remains blank. Return the same 1024x1536 portrait page.
