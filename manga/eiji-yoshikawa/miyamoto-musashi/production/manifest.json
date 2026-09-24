@@ -1,10 +1,10 @@
 {
   "title": "宮本武蔵 地の巻",
   "status": "complete_awaiting_user_review",
-  "stop_after_page": 25,
-  "page_count": 25,
+  "stop_after_page": 30,
+  "page_count": 30,
   "language": "ja",
-  "reading_order": "right-to-left panels; pages 01 through 25",
+  "reading_order": "right-to-left panels; pages 01 through 30",
   "generator": "built-in image_gen through imagegen skill",
   "reference": "references/characters.png",
   "pdfs": [
@@ -24,7 +24,7 @@
     }
   ],
   "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
-  "source_section": "鈴 一〜五、毒茸 一〜二冒頭",
+  "source_section": "鈴 一〜五、毒茸 一〜三",
   "pages": [
     {
       "page": 1,
@@ -243,6 +243,68 @@
       "sha256": "69bb70a9376717f2a1207de375eb15bda2c61485adf529ad77a6a42b8c91da9a",
       "page_number_in_artwork": false,
       "source_section": "毒茸 二（男が現れる場面まで）"
+    },
+    {
+      "page": 26,
+      "title": "年貢の脅し",
+      "image": "pages/page-26.png",
+      "prompt": "production/prompts/page-26.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a9aef01efdca9aa53ee96d526df5fc711973b5bb82af9430a5d85c4ea58eba75",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 二",
+      "references": ["references/characters.png", "pages/page-25.png"]
+    },
+    {
+      "page": 27,
+      "title": "不破村の辻風",
+      "image": "pages/page-27.png",
+      "prompt": "production/prompts/page-27.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "8969ede92f920e18439b8acaf4db63f1a2bce1b6f624e88f664b4fef3786f19f",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 二",
+      "references": ["references/characters.png", "pages/page-25.png"],
+      "edit_prompt": "production/prompts/page-27-edit.txt"
+    },
+    {
+      "page": 28,
+      "title": "戦場の秘密",
+      "image": "pages/page-28.png",
+      "prompt": "production/prompts/page-28.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "e80994ad8c629a832e068173c4edb0ba12545af7affbc34f68807b8e1a33c3f7",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 二",
+      "references": ["references/characters.png", "pages/page-25.png"],
+      "edit_prompt": "production/prompts/page-28-edit.txt"
+    },
+    {
+      "page": 29,
+      "title": "父の死",
+      "image": "pages/page-29.png",
+      "prompt": "production/prompts/page-29.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "63bbc618b619bcf6da21ed33b9b78e28ddbe72424a83c4307defd0b018ec1c4e",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 三",
+      "references": ["references/characters.png", "pages/page-25.png"]
+    },
+    {
+      "page": 30,
+      "title": "帰り道の約束",
+      "image": "pages/page-30.png",
+      "prompt": "production/prompts/page-30.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "44e36f13775094ac174591cd7bb4b02392e8fd7a40fac3dc308047e2fdb62e57",
+      "page_number_in_artwork": false,
+      "source_section": "毒茸 三",
+      "references": ["references/characters.png", "pages/page-25.png"]
     }
   ]
 }

@@ -1,0 +1,8 @@
+Use case: precise-object-edit
+Edit this existing 1024x1536 manga page with exactly TWO small localized corrections. Preserve all other artwork, text, panel borders, color, lighting, characters, clothing and poses.
+
+1. TOP WIDE PANEL: The upper-right speech balloon containing 「いいえ……。」 is spoken by AKEMI, the frightened girl in the DUSTY ROSE kimono holding a basket, NOT by Takezo in indigo behind her. Keep the balloon and its Japanese text in their current position. Replace only its short incorrectly aimed tail with a thin longer tail that slopes DOWN AND LEFT to the right side of AKEMI'S mouth/cheek, approximately image coordinates x=795,y=280. The tail must end beside the girl's face, clearly below the young man's face, unmistakably identifying HER as the speaker. Do not point to Takezo's face or head. All text stays exactly unchanged.
+
+2. MIDDLE RIGHT PANEL (the bandit seen from behind on a downhill trail): Remove ONLY the two tiny distant figures of Takezo and Akemi currently standing farther down the path to the right of the bandit. Seamlessly replace those small figures and their baskets with the existing rocky trail, grasses and autumn forest. This panel must contain ONLY ONE PERSON: the bandit walking away downhill, seen from behind. Keep the bandit's current back view, fur mantle, chainmail, sheathed sword, body, legs and scale unchanged. Keep the landscape, path and buildings.
+
+Do not edit the middle-left or bottom panels at all. Do not redraw or move any faces in the top panel. Preserve every existing Japanese string exactly. Do not add text. No page number, folio, header, footer, watermark, or logo. Bottom outer margin remains completely blank.
