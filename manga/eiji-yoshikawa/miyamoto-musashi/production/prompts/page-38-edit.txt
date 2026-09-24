@@ -1,0 +1,9 @@
+Use case: precise-object-edit
+Input image 1 is the EDIT TARGET, a completed 1024 x 1536 historical manga page. Change ONLY the outside frame treatment of its THREE SMALLER PANELS so exactly TWO scenes retain page-edge bleed.
+The TOP horse-and-messengers scene stays completely unchanged and continues to bleed to TOP, LEFT and RIGHT canvas edges. The LOWER-LEFT silent child-and-sky scene stays completely unchanged and continues to bleed to LEFT and BOTTOM edges.
+Enclose these other three panels:
+1. MIDDLE-RIGHT father speaking, roughly y=420..890, slanted left boundary: retain that slant and all interior art; add a narrow pale-paper band about 12 pixels wide at the physical RIGHT page edge and a thin black rule just inside it. Complete a closed frame around this panel.
+2. MIDDLE-LEFT child sitting in the corner, same row with slanted right boundary: add a pale-paper band about 12 pixels at the physical LEFT edge and a thin black rule inside it. Keep its other borders and its slanted divider.
+3. LOWER-RIGHT messenger-and-child scene, roughly x=650..1023, y=897..1535: inset the image about 12 pixels, surrounding it with a closed thin black rectangle and narrow pale paper on all four sides, especially between its frame and the RIGHT and BOTTOM physical edges.
+These narrow pale strips are LOCAL to the three smaller panels only. Never extend them alongside the top wide scene or the large lower-left scene. Do not enclose the whole page or create a full-width bottom margin.
+Preserve the original five-panel geometry, every Japanese character and balloon tail, people, ages, father identity, horse, scenery, expressions, clothing, light and colors. No new words, page numbers or footer. Do not change the story or add graphic violence. Only the frame treatment of the specified three panels changes.

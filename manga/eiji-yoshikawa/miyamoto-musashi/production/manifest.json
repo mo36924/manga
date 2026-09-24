@@ -1,10 +1,10 @@
 {
   "title": "宮本武蔵 地の巻",
   "status": "complete_awaiting_user_review",
-  "stop_after_page": 35,
-  "page_count": 35,
+  "stop_after_page": 40,
+  "page_count": 40,
   "language": "ja",
-  "reading_order": "right-to-left panels; pages 01 through 35",
+  "reading_order": "right-to-left panels; pages 01 through 40",
   "generator": "built-in image_gen through imagegen skill",
   "reference": "references/characters.png",
   "pdfs": [
@@ -24,7 +24,7 @@
     }
   ],
   "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
-  "source_section": "鈴 一〜五、毒茸 一〜四",
+  "source_section": "鈴 一〜五、毒茸 一〜四、五（木剣と幼少期の回想）",
   "pages": [
     {
       "page": 1,
@@ -364,6 +364,76 @@
       "sha256": "9a25aad591f85f7d92d110cdba8b9d09043405cab1edbd19583bbd9499f4030c",
       "page_number_in_artwork": false,
       "source_section": "毒茸 四",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 36,
+      "title": "木剣の記憶",
+      "image": "pages/page-36.png",
+      "prompt": "production/prompts/page-36.txt",
+      "edit_prompt": "production/prompts/page-36-edit.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "92423221f59dc5afae340dbf62aacb6e3c10d8ed35e0ea0fe8bdcc906fd22cc7",
+      "page_number_in_artwork": false,
+      "edge_open_panels": 2,
+      "source_section": "毒茸 五",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 37,
+      "title": "母のもとへ",
+      "image": "pages/page-37.png",
+      "prompt": "production/prompts/page-37.txt",
+      "edit_prompt": "production/prompts/page-37-edit.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ef3478399a94ce4e0b94efee78c122d9becc495179f06090270d3461af174664",
+      "page_number_in_artwork": false,
+      "edge_open_panels": 2,
+      "source_section": "毒茸 五",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 38,
+      "title": "帰された子",
+      "image": "pages/page-38.png",
+      "prompt": "production/prompts/page-38.txt",
+      "edit_prompt": "production/prompts/page-38-edit.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ad2d47682e284da4f37112e1eb1e3b9cd6ff203ba499edfd4ee708bc8cda07f9",
+      "page_number_in_artwork": false,
+      "edge_open_panels": 2,
+      "source_section": "毒茸 五",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 39,
+      "title": "強さの果て",
+      "image": "pages/page-39.png",
+      "prompt": "production/prompts/page-39.txt",
+      "edit_prompt": "production/prompts/page-39-edit.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0fd30e7b3fdec120bfdcffa87f3d8cb726c652cdc3ef7552378328471ceee9c5",
+      "page_number_in_artwork": false,
+      "edge_open_panels": 2,
+      "source_section": "毒茸 五",
+      "references": ["references/characters.png"]
+    },
+    {
+      "page": 40,
+      "title": "姉の涙",
+      "image": "pages/page-40.png",
+      "prompt": "production/prompts/page-40.txt",
+      "edit_prompt": "production/prompts/page-40-edit.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "542ed32bbbbc30fe66f17d4ef0379e8f1118f3c41005a690e5c37e34c67d3d7d",
+      "page_number_in_artwork": false,
+      "edge_open_panels": 2,
+      "source_section": "毒茸 五",
       "references": ["references/characters.png"]
     }
   ]
