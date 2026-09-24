@@ -1,10 +1,10 @@
 {
   "title": "宮本武蔵 地の巻",
   "status": "complete_awaiting_user_review",
-  "stop_after_page": 45,
-  "page_count": 45,
+  "stop_after_page": 50,
+  "page_count": 50,
   "language": "ja",
-  "reading_order": "right-to-left panels; pages 01 through 45",
+  "reading_order": "right-to-left panels; pages 01 through 50",
   "generator": "built-in image_gen through imagegen skill",
   "reference": "references/characters.png",
   "pdfs": [
@@ -24,7 +24,7 @@
     }
   ],
   "source": "https://www.aozora.gr.jp/cards/001562/files/52396_49781.html",
-  "source_section": "鈴 一〜五、毒茸 一〜六、おとし櫛 一〜二（対峙まで）",
+  "source_section": "鈴 一〜五、毒茸 一〜六、おとし櫛 一〜三",
   "pages": [
     {
       "page": 1,
@@ -496,6 +496,66 @@
       "source_section": "おとし櫛 二（対峙まで）",
       "references": ["references/characters.png", "pages/page-26.png"],
       "edit_prompt": "production/prompts/page-45-edit.txt"
+    },
+    {
+      "page": 46,
+      "title": "黙した刃",
+      "image": "pages/page-46.png",
+      "prompt": "production/prompts/page-46.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ff5c25102cf623bff8af38ec5ec96e99e157857154b2d5be0e9f5dbe251a8539",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 二",
+      "references": ["references/characters.png", "pages/page-45.png", "pages/page-26.png"]
+    },
+    {
+      "page": 47,
+      "title": "煙の突入",
+      "image": "pages/page-47.png",
+      "prompt": "production/prompts/page-47.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "684586ba1e847f843e8197ce8d41350fdfb4d5dcbee8ab153b5484505713e70e",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 二",
+      "references": ["references/characters.png", "pages/page-45.png", "pages/page-26.png"]
+    },
+    {
+      "page": 48,
+      "title": "巨体を投げる",
+      "image": "pages/page-48.png",
+      "prompt": "production/prompts/page-48.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b7056e9c973b6f87a911cda46d449da2e04eae36c8f1cfac90646d6d136f3639",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 二",
+      "references": ["references/characters.png", "pages/page-45.png", "pages/page-26.png"]
+    },
+    {
+      "page": 49,
+      "title": "月下の追跡",
+      "image": "pages/page-49.png",
+      "prompt": "production/prompts/page-49.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d200e52077b51493a96cfbcad84a0684e1363c48c3187ef8b08b342d727b7e62",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 三",
+      "references": ["references/characters.png", "pages/page-45.png", "pages/page-26.png"]
+    },
+    {
+      "page": 50,
+      "title": "野からの帰還",
+      "image": "pages/page-50.png",
+      "prompt": "production/prompts/page-50.txt",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7575e7b6f736f6cc4bd9f4f9e456979533921d2ac4e414f6f5422c7f45b0dd08",
+      "page_number_in_artwork": false,
+      "source_section": "おとし櫛 三",
+      "references": ["references/characters.png", "pages/page-45.png", "pages/page-26.png"]
     }
   ]
 }
